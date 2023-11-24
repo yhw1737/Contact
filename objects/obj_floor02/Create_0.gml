@@ -1,0 +1,1 @@
+physics_joint_revolute_create(id, instance_place(x,y,Obj_floor03), x, y, -360, 360, false, 0, 0, false, false);
